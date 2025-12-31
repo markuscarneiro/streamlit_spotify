@@ -145,7 +145,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 **Markus Carneiro**
 
-Senior Internal Auditor | Data Science & Analytics Specialist
+Senior Internal Auditor | Data Science & Analytics
 
 - 💼 LinkedIn: [linkedin.com/in/markuscarneiro](https://linkedin.com/in/markuscarneiro)
 - 🐙 GitHub: [@markuscarneiro](https://github.com/markuscarneiro)
